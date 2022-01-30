@@ -37,10 +37,15 @@ I am a PhD Candidate at Tufts University studying Human-Robot Interaction.
 ### :robot: Robots :
 <div>
   <img src="https://www.turtlebot.com/assets/images/turtlebot_logo.png" title="Turtlebot2" **alt="Turtlebot2" width="200" height="90"/>&nbsp;
+  <img src="https://th.bing.com/th/id/R.a46b9567251f9907141a4f4cfcbe0920?rik=apXIrzBlYnArLA&riu=http%3a%2f%2fwww.komprad.vizz.pl%2fsklep%2fzdjecia%2fev3-logo.png&ehk=3%2bv6v4TivKhLek9tBfGQC%2fI2I7d5XN9a7CWetOV9xhU%3d&risl=&pid=ImgRaw&r=0" title="LEGO-EV3" **alt="LEGO-EV3" width="300" height="90"/>&nbsp;
+  <img src="https://download.logo.wine/logo/Anki_(company)/Anki_(company)-Logo.wine.png" title="ANKI" **alt="ANKI" width="150" height="100"/>&nbsp;
+  <img src="https://www.knottsco.com/hs-fs/hubfs/Mfg-Logos/UR_Logotype.jpg?width=640&name=UR_Logotype.jpg" title="UR5" **alt="UR5" width="250" height="50"/>&nbsp;
+
 </div>
+
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" **alt="Android" width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" **alt="Apache" width="40" height="40"/>&nbsp;
@@ -53,7 +58,8 @@ I am a PhD Candidate at Tufts University studying Human-Robot Interaction.
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain-wordmark.svg" title="Gitlab" **alt="Gitlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-plain-wordmark.svg" title="Inkscape" **alt="Inkscape" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" **alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://th.bing.com/th/id/OIP.RGxc-vcauLhnNDkAvBWKZgHaFx?pid=ImgDet&rs=1" title="Kali" **alt="Kali" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-plain-wordmark.svg" title="LabView" alt="LabView" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
