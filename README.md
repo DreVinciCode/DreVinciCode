@@ -33,10 +33,15 @@ Here are some ideas to get you started:
 I am a PhD Candidate at Tufts University studying Human-Robot Interaction.
 
 - 🔭 I’m currently working on a Human-robot Interaction study that investigates how users interact with a robot having access to an AR-device that visualizes a robot's sensory, cognitive decision, diagnostic, safety, and activity data.  Specifically, I want to explore, “What types of robotic information do users want or rather see
-in AR when completing a task using a robot?”, “Do users have more confidence in completing a task with the aid of an AR-device with a robot?”, “Do users with access to an AR-Device complete robotic tasks more quicker than users without an AR-device?” 
+in AR when completing a task using a robot?”, “Do users have more confidence in completing a task with the aid of an AR-device with a robot?”, “Do users with access to an AR-Device complete robotic tasks more quicker than users without an AR-device?” To answer these questions, I am hosting a study within out lab where recruited participants in groups of two complete robotic-tasks that differ in types of robotic information. Measurements include total time completion, accuracy, and subjective confidence rating.  
 
-To answer these questions, I am hosting a study within out lab where recruited participants in groups of two complete robotic-tasks that differ in types of robotic information. Measurements include total time completion, accuracy, and subjective confidence rating.  
+- 🤔 I’m looking for help with finding ways to integrate gesture recognition for a more natural HRI experience. I want to explore EMG devices that recognize common human gestures for enhanced command signals with robots. Integrated EMG devices with AR head mounted devices that enables eye gaze capabilities can enable multi-robot interactions. 
 
+- 📫 How to reach me: Email andre.cleaver@tufts.edu
+- 😄 Pronouns: He/His/Him
+- ⚡ Fun fact: I'll be in three films that were all shot in Boston towards the end of 2021!
+<!-- - 👀 Be sure to checkout my mini [AR demos](https://www.tiktok.com/@drevinci_creations) 
+ -->
 ---
 
 ### 🥽  Headsets :
