@@ -77,6 +77,7 @@ I am a PhD Candidate at Tufts University studying Human-Robot Interaction.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="ROS"  alt="ROS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-plain-wordmark.svg" title="Slack"  alt="Slack" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" title="Solidworks"  alt="Solidworks" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp;
