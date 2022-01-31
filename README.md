@@ -40,8 +40,8 @@ in AR when completing a task using a robot?”, “Do users have more confidence
 - 📫 How to reach me: Email andre.cleaver@tufts.edu
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I'll be in three films that were all shot in Boston towards the end of 2021!
-<!-- - 👀 Be sure to checkout my mini [AR demos](https://www.tiktok.com/@drevinci_creations) 
- -->
+- 👀 Be sure to checkout my mini [AR demos] 
+
 ---
 
 ### 🥽  Headsets :
@@ -95,3 +95,14 @@ in AR when completing a task using a robot?”, “Do users have more confidence
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
 </div>
 
+---
+### 🎮 Mini AR Demos !!!:
+
+<p align="center">
+  <img src="https://github.com/DreVinciCode/American_Sign_Language/blob/main/Demo/demo.gif?raw=true" width="300"/>
+  <img src="https://github.com/DreVinciCode/SENSAR/blob/main/Demo/demo.gif?raw=true" width="300"/>  
+  <img src="https://github.com/DreVinciCode/Unity-AR-Portal/blob/main/Demo/demo.gif?raw=true" width="300"/>   
+  <img src="https://github.com/DreVinciCode/MRTK_SceneUnderstanding/blob/main/Demo/demo.gif?raw=true" width="300" /> 
+  <img src="https://github.com/DreVinciCode/ATLA-Elements/blob/main/Demo/earthbending.gif?raw=true" width="300" /> 
+  <img src="https://github.com/DreVinciCode/Naruto_Rasenshuriken/blob/main/Demo/demo.gif?raw=true" width="300" /> 
+</p>
