@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am a PhD Candidate at Tufts University studying Human-Robot Interaction.
+I am a PhD Candidate at Tufts University studying Human-Robot Interaction. I am interested in learning how AR technology can help improve the interaction and communication between humans and robots 🙂
 
 - 🔭 I’m currently working on a Human-robot Interaction study that investigates how users interact with a robot having access to an AR-device that visualizes a robot's sensory, cognitive decision, diagnostic, safety, and activity data.  Specifically, I want to explore, “What types of robotic information do users want or rather see
 in AR when completing a task using a robot?”, “Do users have more confidence in completing a task with the aid of an AR-device with a robot?”, “Do users with access to an AR-Device complete robotic tasks more quicker than users without an AR-device?” To answer these questions, I am hosting a study within out lab where recruited participants in groups of two complete robotic-tasks that differ in types of robotic information. Measurements include total time completion, accuracy, and subjective confidence rating.  
