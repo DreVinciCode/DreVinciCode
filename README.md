@@ -37,9 +37,8 @@ in AR when completing a task using a robot?”, “Do users have more confidence
 
 - 🤔 I’m looking for help with finding ways to integrate gesture recognition for a more natural HRI experience. I want to explore EMG devices that recognize common human gestures for enhanced command signals with robots. Integrated EMG devices with AR head mounted devices that enables eye gaze capabilities can enable multi-robot interactions. 
 
-- 📫 How to reach me: Email andre.cleaver@tufts.edu
+- 📫 How to reach me: Email andrecleaver.phd@gmail.com
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I'll be in three films that were all shot in Boston towards the end of 2021!
 - 👀 Be sure to checkout my mini [AR demos] 
 
 ---
